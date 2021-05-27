@@ -27,6 +27,7 @@ public class GPA {
 	        System.out.println(
 	            "CGPA Percentage = "
 	            + String.format("%.2f", CGPA * 9.5));
+		This is a calculate classs
 	}
 
 }
